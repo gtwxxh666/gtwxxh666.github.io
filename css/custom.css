@@ -1,0 +1,66 @@
+#article-container figure.highlight .highlight-tools {
+  background: #eceef2;
+  border-bottom: #e3e8f7;
+  color: #363636;
+}
+
+body {
+  cursor: url(https://blog.shineyu.cn/img/x1.cur
+  ),auto
+}
+
+[type=button]:not(:disabled),[type=reset]:not(:disabled),[type=submit]:not(:disabled),a,button:not(:disabled) {
+  cursor: url(https://blog.shineyu.cn/img/x2.cur),auto!important
+}
+
+#article-container .highlight-tools {
+  position: relative;
+  display: flex;
+  -webkit-box-align: center;
+  align-items: center;
+  overflow: hidden;
+  min-height: 1.2rem;
+  height: 2.15em;
+  background: #1c1c1c;
+  color: rgba(238, 255, 255, 0.8);
+  font-size: 16px;
+}
+
+#article-container .line{
+  color: #1c1c1c;
+}
+
+[data-theme=dark] #article-container figure.highlight .highlight-tools {
+  background: #30343f;
+  border-bottom: #3d3d3f;
+  color: #F7F7FA;
+}
+
+[data-theme=dark] #article-container .highlight-tools {
+  position: relative;
+  display: flex;
+  -webkit-box-align: center;
+  align-items: center;
+  overflow: hidden;
+  min-height: 1.2rem;
+  height: 2.15em;
+  background: #1c1c1c;
+  color: #90a4ae;
+  font-size: 16px;
+}
+
+
+
+[data-theme=dark] #article-container .line{
+  color: #f8faff;
+}
+
+/* 欢迎信息 */
+#welcome-info {
+  background: linear-gradient(45deg, #b9f4f3, #e3fbf9);
+  border-radius: 18px;
+  padding: 8px;
+}
+[data-theme="dark"] #welcome-info {
+  background: #212121;
+}
