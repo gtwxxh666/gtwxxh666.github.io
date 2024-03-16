@@ -2,11 +2,11 @@
 home: true
 layout: BlogHome
 icon: home
-title: 博客主页
+title: 首页
 heroImage: https://theme-hope-assets.vuejs.press/logo.svg
-heroText: 你博客的名称
+heroText: 𝓣𝓪𝓷𝓰𝓶𝓾
 heroFullScreen: true
-tagline: 你可以在这里放置你的口号与标语
+tagline: 哭也不会改变什么，这个世界从来不会对任何人温柔。
 projects:
   - icon: project
     name: 项目名称

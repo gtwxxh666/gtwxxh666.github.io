@@ -7,7 +7,7 @@ export default hopeTheme({
   hostname: "https://mister-hope.github.io",
 
   author: {
-    name: "Mr.Hope",
+    name: "𝓣𝓪𝓷𝓰𝓶𝓾",
     url: "https://mister-hope.com",
   },
 
@@ -94,7 +94,11 @@ export default hopeTheme({
     //   provider: "Waline",
     //   serverURL: "https://waline-comment.vuejs.press",
     // },
+    
+    copyCode: {},
 
+    searchPro: true,
+    
     components: {
       components: ["Badge", "VPCard"],
     },
