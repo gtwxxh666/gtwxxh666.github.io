@@ -3,19 +3,25 @@ import navbar from "./navbar.js";
 import sidebar from "./sidebar.js";
 import { MR_HOPE_AVATAR } from "./logo.js";
 
+const footerICP_HTML = `
+<a class="footer-icp" href="https://beian.miit.gov.cn" target="_blank">
+  浙ICP备2023001503号-2
+</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a class="footer-about" href="/about/website.html">关于本站</a>`;
+
+
 export default hopeTheme({
-  hostname: "https://mister-hope.github.io",
+  hostname: "https://tangmv.cn",
 
   author: {
     name: "𝓣𝓪𝓷𝓰𝓶𝓾",
-    url: "https://mister-hope.com",
+    url: "https://tangmv.cn",
   },
 
   iconAssets: "fontawesome-with-brands",
 
-  logo: "https://theme-hope-assets.vuejs.press/logo.svg",
+  logo: "https://bu.dusays.com/2024/03/17/65f665a7739c4.png",
 
-  repo: "vuepress-theme-hope/vuepress-theme-hope",
+  repo: "gtwxxh666/gtwxxh666.github.io",
 
   docsDir: "src",
 
@@ -26,7 +32,7 @@ export default hopeTheme({
   sidebar,
 
   // 页脚
-  footer: "默认页脚",
+  footer: footerICP_HTML,
   displayFooter: true,
 
   // 博客相关

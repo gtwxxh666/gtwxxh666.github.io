@@ -3,10 +3,14 @@ home: true
 layout: BlogHome
 icon: home
 title: 首页
-heroImage: https://theme-hope-assets.vuejs.press/logo.svg
+heroImage: https://bu.dusays.com/2024/03/17/65f665a7739c4.png
 heroText: 𝓣𝓪𝓷𝓰𝓶𝓾
+bgImage: https://bu.dusays.com/2024/03/16/65f570bc4fdd8.jpg
 heroFullScreen: true
-tagline: 哭也不会改变什么，这个世界从来不会对任何人温柔。
+tagline: 𝐍𝐨 𝐨𝐧𝐞 𝐩𝐞𝐫𝐬𝐨𝐧 𝐢𝐧 𝐭𝐡𝐞 𝐰𝐨𝐫𝐥𝐝 𝐜𝐚𝐧 𝐫𝐞𝐩𝐥𝐚𝐜𝐞 𝐚𝐧𝐨𝐭𝐡𝐞𝐫.
+description: Gtwxxh,汤木,博客,记录,分享
+article: false
+index: false
 projects:
   - icon: project
     name: 项目名称
@@ -38,11 +42,11 @@ projects:
     desc: 自定义详细介绍
     link: https://你的自定义链接
 
-footer: 自定义你的页脚文字
+footer: 浙ICP备2023001503号-2
 ---
 
-这是一个博客主页的案例。
+<!-- 这是一个博客主页的案例。
 
 要使用此布局，你应该在页面前端设置 `layout: BlogHome` 和 `home: true`。
 
-相关配置文档请见 [博客主页](https://theme-hope.vuejs.press/zh/guide/blog/home/)。
+相关配置文档请见 [博客主页](https://theme-hope.vuejs.press/zh/guide/blog/home/)。 -->
