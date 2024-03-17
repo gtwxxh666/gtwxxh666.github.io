@@ -5,7 +5,7 @@ import { MR_HOPE_AVATAR } from "./logo.js";
 
 const footerICP_HTML = `
 <a class="footer-icp" href="https://beian.miit.gov.cn" target="_blank">
-  浙ICP备2023001503号-2
+  浙ICP备2023001503号-1
 </a>&nbsp;&nbsp;|&nbsp;&nbsp;<a class="footer-about" href="/about/website.html">关于本站</a>`;
 
 
